@@ -100,11 +100,11 @@ Our logo was designed in Canva and incoporates the colours in our palatte. We wa
 
 ## 🚀 Goals for the future...
 
-While the MVPs and some stretch goals were completed during the week, this projetc is far from finished! <br><br>
+While the MVPs and some stretch goals were completed during the week, this project is far from finished! <br>
 
-In the future, I would like to turn this prototype website into a fully functional revision tool by adding more quiz/flashcard topics, adding learning resources on the site itself rather than purely linking to external sources, and adding fun quiz features such as a 'battle mode' feature where users can challenge their friends. <br><br>
+In the future, I would like to turn this prototype website into a fully functional revision tool by adding more quiz/flashcard topics, adding learning resources on the site itself rather than purely linking to external sources, and adding fun quiz features such as a 'battle mode' option where users can challenge their friends. <br>
 
-To make this website more robust, I would love to be able to fully automate its testing in the future using tools such as Jest.<br><br>
+To make this website more robust, I would love to be able to fully automate its testing in the future using tools such as Jest.<br>
 
 As I have learnt some backend topics since finishing this project, I would also like to apply this new learning by creating a login system for users to get a more personal experience.
 
