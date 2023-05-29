@@ -25,10 +25,18 @@ The challenge for this project was to create a tool that would help bootcampers 
 We implemented dot voting throughout the project to speed up the decision making process and to avoid potential conflicts. An example of when we used this method was when deciding on which of the three bootcamper problems we would try to address with our product.<br><br> Here is the result of this vote:
 
 <img width="929" alt="Screenshot 2023-05-29 at 14 28 44" src="https://github.com/Rebecca149/Code_Master/assets/123400925/f1dc43ea-1783-4a00-ad2a-dd5ca3d7385d">
-
+<br>
+As a result of tis vote we decided to focus on the second bootcamper problem, although we also decided that it may be possible to incoporate elements of the first as well.
 
 ### User Story
-### User Persona
+An essential part of any project is to clearnly define the challenge by writing a user story. This is exteremely helpful in keeping the project focused and prevent the team from strayign too far from the project brief. <br>
+
+We used the 'as a... I want... so that...' struture for our user story: <br>
+
+~ <em>"As a bootcamper, I want a tool that will help me to consolidate my understanding so that I can progress through the course confidently"<em>
+
+
+### User Personas
 ### 💭 Disney ideation
 ### The MVP
 ### 📈 Stretch Goals
