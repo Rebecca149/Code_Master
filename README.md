@@ -92,3 +92,10 @@ Our logo was designed in Canva and incoporates the colours in our palatte. We wa
 
 
 ### Wireframes
+<img width="766" alt="The homepage wireframes" src="https://github.com/Rebecca149/Code_Master/assets/123400925/7274679f-8676-4164-b90f-ff8376b16a59">
+
+<img width="769" alt="The quiz wireframes" src="https://github.com/Rebecca149/Code_Master/assets/123400925/d0926913-40d3-4b6a-96ac-f4a97d92aa15">
+
+<img width="768" alt="The flashcard wireframes" src="https://github.com/Rebecca149/Code_Master/assets/123400925/2503d429-4175-4479-90a8-5cf50ad28f3f">
+
+
